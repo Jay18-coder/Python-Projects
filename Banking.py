@@ -1,4 +1,4 @@
-# Banking system
+# Bank_management system
 
 print('*'*60)
 print(20*'=',"Welcome to KJ bank", '='*20,)
